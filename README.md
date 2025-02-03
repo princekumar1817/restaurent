@@ -45,4 +45,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 **About:**
 
-This project was created by Mausumi Ghadei as a part of Restaurant reservation system. Connect with me on [LinkedIn](https://www.linkedin.com/in/mausumi-ghadei-006466229/) for more information or collaboration opportunities.
+This project was created by prince kumar as a part of Restaurant reservation system. Connect with me on [LinkedIn](https://www.linkedin.com/in/prince-kumar-400134247/) for more information or collaboration opportunities.
